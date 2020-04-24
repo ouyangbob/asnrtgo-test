@@ -1,0 +1,6 @@
+github.com/ouyangbob/asnrt v0.0.0-20200424140227-5108fd22891f h1:jMZlwgffZ6iLqzlpVVG8UhVYrReVZoqKpC0a36rW0BQ=
+github.com/ouyangbob/asnrt v0.0.0-20200424140227-5108fd22891f/go.mod h1:+jb3UbDFBxaTC1Gkaf01hFQKRARxYMYIHq338SGArCA=
+github.com/ouyangbob/asnrtgo v0.0.0-20200424143609-d8e0a6e8bd5c h1:m8tHax6YqrRFPVTqT8r2CFhhhI2Wk3iFRmjOclsep+c=
+github.com/ouyangbob/asnrtgo v0.0.0-20200424143609-d8e0a6e8bd5c/go.mod h1:LbjLwz24X7QAiANrIwXJMTiiSY5vP6FkYWOiFu51PQ4=
+github.com/tcard/pluginunmarshal v0.0.0-20161207114745-397ad2360427 h1:KslGWvPz09SWqE6/6dXedFB4Iu8zHgpkExNmJVIdB2g=
+github.com/tcard/pluginunmarshal v0.0.0-20161207114745-397ad2360427/go.mod h1:expin+iV3zLFtV7XxLgsn5n3RUYoaQoGyOPSH4+3CKE=
